@@ -1,2 +1,2 @@
-# mijin
-decoding my taste in music 
+# enroute
+to decode my taste in music 
